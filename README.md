@@ -11,4 +11,4 @@ Use the API in your code:
 https://starlight-detector.trueberryless.org/api/check-starlight?url=https://<your-website>
 ```
 
-Visit on https://starlight-detector.trueberryless.org/
+Visit on https://starlight-detector.trueberryless.org
