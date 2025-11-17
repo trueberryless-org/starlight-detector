@@ -1,5 +1,5 @@
 {
-  "name": "starlight-checker",
+  "name": "starlight-detector",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -9,6 +9,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.15.8"
+    "@astrojs/netlify": "^6.6.0",
+    "@tailwindcss/vite": "^4.1.17",
+    "astro": "^5.15.8",
+    "tailwindcss": "^4.1.17"
   }
 }
